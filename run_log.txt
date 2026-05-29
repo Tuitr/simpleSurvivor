@@ -1,0 +1,5 @@
+Program entered main().
+Project root: C:/Users/mayor/OneDrive/Documents/game_c++
+Creating game window...
+Game object created. Entering loop.
+Game loop ended normally.

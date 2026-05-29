@@ -1,0 +1,3 @@
+C:/Users/mayor/OneDrive/Documents/game_c++/build/CMakeFiles/PixelDungeonSurvivor.dir
+C:/Users/mayor/OneDrive/Documents/game_c++/build/CMakeFiles/edit_cache.dir
+C:/Users/mayor/OneDrive/Documents/game_c++/build/CMakeFiles/rebuild_cache.dir

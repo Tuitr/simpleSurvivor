@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/PixelDungeonSurvivor.dir/main.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/main.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Button.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Button.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/DungeonMap.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/DungeonMap.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Enemy.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Enemy.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Game.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Game.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/HealthPack.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/HealthPack.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Player.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Player.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Projectile.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Projectile.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/RecordManager.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/RecordManager.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Skeleton.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Skeleton.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/SpeedBooster.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/SpeedBooster.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/TextureAtlas.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/TextureAtlas.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/WaveManager.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/WaveManager.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Weapon.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/Weapon.cpp.obj.d"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/WeaponBooster.cpp.obj"
+  "CMakeFiles/PixelDungeonSurvivor.dir/src/WeaponBooster.cpp.obj.d"
+  "PixelDungeonSurvivor.exe"
+  "PixelDungeonSurvivor.exe.manifest"
+  "PixelDungeonSurvivor.pdb"
+  "libPixelDungeonSurvivor.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/PixelDungeonSurvivor.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
